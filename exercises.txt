@@ -1,0 +1,20 @@
+Fraud Detection with Support Vector Machine
+Customer Segmentation using K-means
+Market Basket Analysis with Apriori Algorithm
+Medical Diagnosis with Random Forest Classifier
+Image recognition with convolutional neural network
+Traffic Prediction with linear regression
+Anomaly Detection with K-nearest neighbor
+Sentiment Analyis with Naive Bayes
+Predictive Maintenance with Gradient Boosting
+Market trading with recurrent neural network
+Speech recognition with convolutional neural network
+Credit Scoring with Logistic Regression
+Supply Chain Optimization with hierarchical clustering
+Natural Language Processing
+Deep Learning with neural networks
+Dimensionality reduction with principal component analysis
+Dimensionality reduction with linear discriminant analysis
+Signal processing
+Outlier Detection
+Feature engineering
