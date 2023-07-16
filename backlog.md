@@ -15,3 +15,5 @@ Reinforcement Learning - N-step bootstrapping Excercise
 Reinforcement Learning - Continous state spaces Excercise
 
 Reinforcement Learning - Deep SARSA Excercise
+
+Deepfake - Exercise
