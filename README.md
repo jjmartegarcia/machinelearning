@@ -35,13 +35,15 @@ The repository contains the following resources:
 
 1. Overview to the key areas of machine learning provides a snapshot of ML Lifecycle process, ML Data Engineering, ML Model Engineering, ML Algorithms and ML Model Evaluation.
 
-2. How to the choose the right Machine Learning Algorithm with cheat sheets.
+2. Detailed description of CRISP-ML(Q), which is a methodology that works for the standardization of the Machine Learning lifecycle approach across industries.
 
-3. Excercises: Practical examples and tutorials are provided in Jupyter Notebook format.
+3. How to the choose the right Machine Learning Algorithm with cheat sheets.
 
-4. Interview Questions and Answers: A curated selection of publicly available interview questions and answers is included to help you prepare for machine learning job interviews.
+4. Excercises: Practical examples and tutorials are provided in Jupyter Notebook format.
 
-5. Theory References: A collection of reference materials to deepen your understanding of the underlying theory behind machine learning algorithms and techniques.
+5. Interview Questions and Answers: A curated selection of publicly available interview questions and answers is included to help you prepare for machine learning job interviews.
+
+6. Theory References: A collection of reference materials to deepen your understanding of the underlying theory behind machine learning algorithms and techniques.
 
 ## Contributing
 
