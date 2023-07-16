@@ -2,9 +2,7 @@
 
 Welcome to the Machine Learning Practical Course !
 
-This repository provides a comprehensive resource to quickly familiarize yourself with
-
-machine learning concepts and techniques through practical examples and curated references.
+This repository provides a comprehensive resource to quickly familiarize yourself with machine learning concepts and techniques through practical examples and curated references.
 
 ## Overview
 
@@ -28,6 +26,8 @@ The course covers a wide range of guided excercises, including:
 - Speech recognition with Convolutional Neural Network
 - Supply Chain Optimization with Hierarchical Clustering
 - Traffic Prediction with Linear Regression
+
+Keep in mind when working with Machine Learning, it is common and recommended to explore and experiment with various algorithms and architectures on the specific problem. Different approaches have their own strengths and weaknesses, and their performance can vary.
 
 ## Contents
 
