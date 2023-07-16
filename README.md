@@ -33,7 +33,7 @@ The course covers a wide range of topics, including:
 
 The repository contains the following resources:
 
-1. Comprehensive overview:
+1. Overview to the key areas of machine learning : Our presentation provides a snapshot of : ML Lifecycle process, ML Data Engineering, ML Model Engineering, ML Algorithms and ML Model Evaluation
 
 2. Choosing the right Machine Learning Algorithm: 
 
