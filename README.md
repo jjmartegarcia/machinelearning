@@ -55,6 +55,7 @@ Some guidelines to keep in mind:
 - Demonstrate the functionality of a specific machine learning algorithm
 - Shows the use for a particular business application or topic
 - Use the same format with lots of comments and explanations
+- Use open datasets available for data analysis purposes
 - Mention all references used
 - Include publicly available or self-made tutorials about the learning algorithm
 - Language used is English
