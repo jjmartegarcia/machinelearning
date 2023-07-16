@@ -52,13 +52,11 @@ We welcome contributions from the community to improve and expand the machine le
 If you would like to add additional resources, please feel free to submit a pull request.
 
 Some guidelines to keep in mind:
-- Demonstrate the functionality of a specific machine learning algorithm
-- Shows the use for a particular business application or topic
-- Use the same format with lots of comments and explanations
-- Use open datasets available for data analysis purposes
-- Mention all references used
-- Include publicly available or self-made tutorials about the learning algorithm
-- Language used is English
+- Choose a specific machine learning algorithm and demonstrate its functionality
+- Apply the algorithm to a relevant business application or topic
+- Use open datasets for data analysis, citing the sources
+- Include references and tutorials on the algorithm
+- Present the excercise in English, using clear and concise language
 
 ## Feedback
 
