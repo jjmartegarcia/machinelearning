@@ -10,7 +10,7 @@ machine learning concepts and techniques through practical examples and curated 
 
 The machine learning practical course is designed to help you develop a strong foundation in machine learning and gain hands-on experience in applying the concepts to real-world scenarios.
 
-The course covers a wide range of guided excersises, including:
+The course covers a wide range of guided excercises, including:
 
 - Anomaly Detection with k-Nearest Neighbors
 - Credit Scoring with Logistic Regression
