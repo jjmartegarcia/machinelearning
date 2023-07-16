@@ -51,7 +51,11 @@ We welcome contributions from the community to improve and expand the machine le
 
 If you would like to add additional resources, please feel free to submit a pull request.
 
-Please use the same format for the Jupyter Notebook guided excercises with lots of comments and explanations, including tutorials, so that they can be easily read and understood.
+Some guidelines to keep in mind:
+- Use the same format for the Jupyter Notebook guided excercises with lots of comments and explanations
+- Mention all references used in the Jupyter Notebook
+- Include publicly available tutorials about the learning algorithm
+- Language used in the Jupyter Notebook guided excercises and publicly available tutorials is English
 
 ## Feedback
 
