@@ -47,11 +47,17 @@ The repository contains the following resources:
 
 ## Contributing
 
-We welcome contributions from the community to improve and expand the machine learning practical course. If you have any suggestions, bug reports, or would like to add additional resources, please feel free to open an issue or submit a pull request.
+We welcome contributions from the community to improve and expand the machine learning practical course.
+
+If you would like to add additional resources, please feel free to submit a pull request.
+
+Please use the same format for the Jupyter Notebook guided excercises with lots of comments and explanations, including tutorials, so that they can be easily read and understood.
 
 ## Feedback
 
-We hope you find this practical course enjoyable and valuable for your machine learning journey. If you have any questions, feedback, or need further assistance, please don't hesitate to reach out to us.
+We hope you find this practical course enjoyable and valuable for your machine learning journey.
+
+If you have any questions, additional requests for the backlog, feedback, or need further assistance, please don't hesitate to reach out to us.
 
 ## Notes
 
