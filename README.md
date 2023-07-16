@@ -39,7 +39,7 @@ The repository contains the following resources:
 
 3. How to the choose the right machine learning algorithm with cheat sheets.
 
-4. Excercises: Practical guided examples and tutorials are provided in Jupyter Notebook format.
+4. Excercises: Practical guided excercises in Jupyter Notebook format and tutorials are provided.
 
 5. Interview Questions and Answers: A curated selection of publicly available interview questions and answers is included to help you prepare for machine learning job interviews.
 
