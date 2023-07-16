@@ -1,19 +1,21 @@
 # Backlog
 
-Reinforcement Learning - Presentation
+Reinforcement Learning presentation
 
-Reinforcement Learning - Markov Decision Process Excercise
+Reinforcement Learning - Markov Decision Process excercise
 
-Reinforcement Learning - Dynamic Programming Excercise
+Reinforcement Learning - Dynamic Programming excercise
 
-Reinforcement Learning - Monte Carlo Excercise
+Reinforcement Learning - Monte Carlo excercise
 
-Reinforcement Learning - Temporal difference methods Excercise
+Reinforcement Learning - Temporal difference methods excercise
 
-Reinforcement Learning - N-step bootstrapping Excercise
+Reinforcement Learning - N-step bootstrapping excercise
 
-Reinforcement Learning - Continous state spaces Excercise
+Reinforcement Learning - Continous state spaces excercise
 
-Reinforcement Learning - Deep SARSA Excercise
+Reinforcement Learning - Deep SARSA excercise
 
-Deepfake - Exercise
+Deepfake exercise
+
+Feature importance in popular algorithms presentation
