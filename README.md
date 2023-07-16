@@ -52,10 +52,12 @@ We welcome contributions from the community to improve and expand the machine le
 If you would like to add additional resources, please feel free to submit a pull request.
 
 Some guidelines to keep in mind:
-- Use the same format for the Jupyter Notebook guided excercises with lots of comments and explanations
-- Mention all references used in the Jupyter Notebook
+- Demonstrate the functionality of a specific machine learning algorithm
+- Shows the use for a particular business application or topic
+- Use the same format with lots of comments and explanations
+- Mention all references used
 - Include publicly available or self-made tutorials about the learning algorithm
-- Language used in the Jupyter Notebook guided excercises and publicly available or self-made tutorials is English
+- Language used is English
 
 ## Feedback
 
