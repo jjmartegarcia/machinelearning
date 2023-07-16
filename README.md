@@ -2,7 +2,7 @@
 
 Welcome to the machine learning practical course !
 
-This repository provides a comprehensive resource to quickly familiarize yourself with machine learning concepts and techniques through practical guided excercises and curated references.
+This repository provides a comprehensive resource to quickly familiarize yourself with machine learning concepts and techniques through practical guided excercises and curated publicly available references.
 
 ## Overview
 
@@ -43,7 +43,7 @@ The repository contains the following resources:
 
 5. Interview Questions and Answers: A curated selection of publicly available interview questions and answers is included to help you prepare for machine learning job interviews.
 
-6. Theory References: A collection of reference materials to deepen your understanding of the underlying theory behind machine learning algorithms and techniques.
+6. Theory References: A collection of publicly available reference materials to deepen your understanding of the underlying theory behind machine learning algorithms and techniques.
 
 ## Contributing
 
