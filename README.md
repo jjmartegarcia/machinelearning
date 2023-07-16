@@ -53,4 +53,12 @@ We welcome contributions from the community to improve and expand the machine le
 
 We hope you find this practical course enjoyable and valuable for your machine learning journey. If you have any questions, feedback, or need further assistance, please don't hesitate to reach out to us.
 
+## Notes
+
+_Give a (wo)man a fish and (s)he'll eat for a day. Teach a (wo)man to fish and (s)he will have food for a lifetime._
+
+_We live in a fascinating time, where the whole world is coming together and knowledge and information are freely available, it now comes down to applying them._
+
+_Embracing diversity and learning from every experience fuels continous growth._
+
 Happy learning !
