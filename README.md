@@ -10,24 +10,24 @@ machine learning concepts and techniques through practical examples and curated 
 
 The machine learning practical course is designed to help you develop a strong foundation in machine learning and gain hands-on experience in applying the concepts to real-world scenarios.
 
-The course covers a wide range of topics, including:
+The course covers a wide range of guided excersises, including:
 
-- Anomaly Detection
-- Credit Scoring
-- Customer Segmentation
-- Deep Learning
-- Dimensionality Reduction
-- Fraud Detection
-- Image Recognition
-- Market Basket Analysis
-- Market Trading
-- Medical Diagnosis
+- Anomaly Detection with k-Nearest Neighbors
+- Credit Scoring with Logistic Regression
+- Customer Segmentation using K-Means
+- Deep Learning with Neural Networks
+- Dimensionality reduction with Principal Component Analysis and Linear Discriminant Analysis
+- Fraud Detection with Support Vector Machine
+- Image recognition with Convolutional Neural Network
+- Market Basket Analysis with Apriori Algorithm
+- Market trading with Recurrent Neural Network
+- Medical Diagnosis with Random Forest
 - Natural Language Processing
-- Predictive Maintenance
-- Sentiment Analysis
-- Speech Recognition
-- Supply Chain Optimization
-- Traffic Prediction
+- Predictive Maintenance with Gradient Boosting
+- Sentiment Analyis with Naive Bayes
+- Speech recognition with Convolutional Neural Network
+- Supply Chain Optimization with Hierarchical Clustering
+- Traffic Prediction with Linear Regression
 
 ## Contents
 
@@ -39,7 +39,7 @@ The repository contains the following resources:
 
 3. How to the choose the right Machine Learning Algorithm with cheat sheets.
 
-4. Excercises: Practical examples and tutorials are provided in Jupyter Notebook format.
+4. Excercises: Practical guided examples and tutorials are provided in Jupyter Notebook format.
 
 5. Interview Questions and Answers: A curated selection of publicly available interview questions and answers is included to help you prepare for machine learning job interviews.
 
