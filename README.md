@@ -33,9 +33,9 @@ The course covers a wide range of topics, including:
 
 The repository contains the following resources:
 
-1. Overview to the key areas of machine learning : Our presentation provides a snapshot of : ML Lifecycle process, ML Data Engineering, ML Model Engineering, ML Algorithms and ML Model Evaluation
+1. Overview to the key areas of machine learning : provides a snapshot of ML Lifecycle process, ML Data Engineering, ML Model Engineering, ML Algorithms and ML Model Evaluation.
 
-2. Choosing the right Machine Learning Algorithm: 
+2. How to the choose the right Machine Learning Algorithm with cheat sheets.
 
 3. Excercises: Practical examples and tutorials are provided in Jupyter Notebook format.
 
