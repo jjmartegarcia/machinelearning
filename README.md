@@ -27,7 +27,7 @@ The course covers a wide range of guided excercises, including:
 - Supply Chain Optimization with Hierarchical Clustering
 - Traffic Prediction with Linear Regression
 
-Keep in mind when working with machine learning, it is common and recommended to explore and experiment with various algorithms and architectures on the specific problem. Different approaches have their own strengths and weaknesses, and their performance can vary.
+Please keep in mind that when working with machine learning, it is common and recommended to explore and experiment with various algorithms and architectures on the specific problem. Different approaches have their own strengths and weaknesses, and their performance can vary. The provided excercises demonstrate the functionality of a specific machine learning algorithm in a more compelling way for a particular business application or topic.
 
 ## Contents
 
