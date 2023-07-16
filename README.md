@@ -1,6 +1,6 @@
 # Machine Learning Practical Course
 
-Welcome to the Machine Learning Practical Course !
+Welcome to the machine learning practical course !
 
 This repository provides a comprehensive resource to quickly familiarize yourself with machine learning concepts and techniques through practical examples and curated references.
 
@@ -35,9 +35,9 @@ The repository contains the following resources:
 
 1. Overview to the key areas of machine learning provides a snapshot of ML Lifecycle process, ML Data Engineering, ML Model Engineering, ML Algorithms and ML Model Evaluation.
 
-2. Detailed description of CRISP-ML(Q), which is a methodology that works for the standardization of the Machine Learning lifecycle approach across industries.
+2. Detailed description of CRISP-ML(Q), which is a methodology that works for the standardization of the machine learning lifecycle approach across industries.
 
-3. How to the choose the right Machine Learning Algorithm with cheat sheets.
+3. How to the choose the right machine learning algorithm with cheat sheets.
 
 4. Excercises: Practical guided examples and tutorials are provided in Jupyter Notebook format.
 
