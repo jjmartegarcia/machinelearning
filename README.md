@@ -2,7 +2,7 @@
 
 Welcome to the machine learning practical course !
 
-This repository provides a comprehensive resource to quickly familiarize yourself with machine learning concepts and techniques through practical examples and curated references.
+This repository provides a comprehensive resource to quickly familiarize yourself with machine learning concepts and techniques through practical guided excercises and curated references.
 
 ## Overview
 
