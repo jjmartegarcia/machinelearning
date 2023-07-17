@@ -74,6 +74,6 @@ _Give a (wo)man a fish and (s)he'll eat for a day. Teach a (wo)man to fish and (
 
 _We live in a fascinating time, where the whole world is coming together and knowledge and information are freely available, it now comes down to applying them._
 
-_Embracing diversity and learning from every experience fuels continous growth._
+_Embracing diversity and learning from experience fuels continous growth._
 
 Happy learning !
