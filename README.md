@@ -33,17 +33,21 @@ Please keep in mind that when working with machine learning, it is common and re
 
 The repository contains the following resources:
 
-1. Overview to the key areas of machine learning provides a snapshot of ML Lifecycle process, ML Data Engineering, ML Model Engineering, ML Algorithms and ML Model Evaluation.
+1. Introduction what machine learning is.
 
-2. Detailed description of CRISP-ML(Q), which is a methodology that works for the standardization of the machine learning lifecycle approach across industries.
+2. Basics of machine learning for non-technical readers.
 
-3. How to the choose the right machine learning algorithm with cheat sheets.
+3. Overview to the key areas of machine learning provides a snapshot of ML Lifecycle process, ML Data Engineering, ML Model Engineering, ML Algorithms and ML Model Evaluation.
 
-4. Excercises: Practical guided excercises in Jupyter Notebook format and tutorials are provided.
+4. Detailed description of CRISP-ML(Q), which is a methodology that works for the standardization of the machine learning lifecycle approach across industries.
 
-5. Interview Questions and Answers: A curated selection of publicly available interview questions and answers is included to help you prepare for machine learning job interviews.
+5. How to the choose the right machine learning algorithm with cheat sheets.
 
-6. Theory References: A collection of publicly available reference materials to deepen your understanding of the underlying theory behind machine learning algorithms and techniques.
+6. Excercises: Practical guided excercises in Jupyter Notebook format and tutorials are provided.
+
+7. Interview Questions and Answers: A curated selection of publicly available interview questions and answers is included to help you prepare for machine learning job interviews.
+
+8. Theory References: A collection of publicly available reference materials to deepen your understanding of the underlying theory behind machine learning algorithms and techniques.
 
 ## Contributing
 
