@@ -18,7 +18,7 @@ Reinforcement Learning - Deep SARSA excercise
 
 Deepfake exercise
 
-Feature importance in popular algorithms presentation
+Feature importance Analysis in popular algorithms presentation
 
 Math - Linear Algebra presentation
 
