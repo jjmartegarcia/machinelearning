@@ -19,3 +19,13 @@ Reinforcement Learning - Deep SARSA excercise
 Deepfake exercise
 
 Feature importance in popular algorithms presentation
+
+Math - Linear Algebra presentation
+
+Math - Calculus presentation
+
+Math - Probability Theory presentation
+
+Math - Hypothesis Testing in Statistics presentation
+
+Math - Distributions in Statistics presentation
