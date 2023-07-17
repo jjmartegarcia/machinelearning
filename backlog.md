@@ -30,4 +30,4 @@
 
 /math/DistributionsInStatistics.pdf
 
-/project/MazeBot : Raspberry Pi Robot Kit with reinforcement learning and image recognition to autonomously navigate and escape a maze
+/projects/MazeBot : Raspberry Pi Robot Kit with reinforcement learning and image recognition to autonomously navigate and escape a maze
