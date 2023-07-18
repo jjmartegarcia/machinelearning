@@ -1,33 +1,33 @@
 # Backlog
 
-/theory/ML-ReinforcementLearning.pdf
+Reinforcement Learning presentation
 
-/excercises/RL/MarkovDecisionProcess.ipynb
+Reinforcement Learning - Markov Decision Process excercise
 
-/excercises/RL/DynamicProgramming.ipynb
+Reinforcement Learning - Dynamic Programming excercise
 
-/excercises/RL/MonteCarlo.ipynb
+Reinforcement Learning - Monte Carlo excercise
 
-/excercises/RL/TemporalDifferenceMethods.ipynb
+Reinforcement Learning - Temporal difference methods excercise
 
-/excercises/RL/N-stepBootstrapping.ipynb
+Reinforcement Learning - N-step bootstrapping excercise
 
-/excercises/RL/ContinousStateSpaces.ipynb
+Reinforcement Learning - Continous state spaces excercise
 
-/excercises/RL/DeepSARSA.ipynb
+Reinforcement Learning - Deep SARSA excercise
 
-/excercises/Deepfake/Deepfake.ipynb
+Deepfake exercise
 
-/theory/ML-FeatureImportanceAnalysis.pdf
+Feature Importance Analysis in popular algorithms presentation
 
-/math/LinearAlgebra.pdf
+Math - Linear Algebra presentation
 
-/math/Calculus.pdf
+Math - Calculus presentation
 
-/math/ProbabilityTheory.pdf
+Math - Probability Theory presentation
 
-/math/HypothesisTestingInStatistics.pdf
+Math - Hypothesis Testing in Statistics presentation
 
-/math/DistributionsInStatistics.pdf
+Math - Distributions in Statistics presentation
 
-/projects/MazeBot : Raspberry Pi Robot Kit with reinforcement learning and image recognition to autonomously navigate and escape a maze
+Project - Raspberry Pi Robot Kit with reinforcement learning and image recognition to autonomously navigate and escape a maze
