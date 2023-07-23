@@ -2,7 +2,7 @@
 
 Welcome to the machine learning practical course !
 
-This repository provides a comprehensive resource to quickly familiarize yourself with machine learning concepts and techniques through practical guided excercises and curated publicly available references.
+This repository provides a comprehensive resource to quickly familiarize yourself with machine learning concepts and techniques through practical curated publicly available guided excercises and references.
 
 ## Overview
 
@@ -43,7 +43,7 @@ The repository contains the following resources:
 
 5. How to the choose the right machine learning algorithm with cheat sheets.
 
-6. Excercises: Practical guided excercises in Jupyter Notebook format and tutorials are provided.
+6. Excercises: Practical publicly available guided excercises in Jupyter Notebook format and tutorials are provided.
 
 7. Interview Questions and Answers: A curated selection of publicly available interview questions and answers is included to help you prepare for machine learning job interviews.
 
