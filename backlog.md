@@ -31,3 +31,9 @@ Math - Hypothesis Testing in Statistics presentation
 Math - Distributions in Statistics presentation
 
 Project - Raspberry Pi Robot Kit with reinforcement learning and image recognition to autonomously navigate and escape a maze
+
+Generative AI (GAI) presentation and exercise
+
+Generative Adversarial Networks (GAN) presentation and exercise
+
+Large Language Models (LLM) presentation and exercise
