@@ -66,7 +66,7 @@ Some guidelines to keep in mind:
 
 We hope you find this practical course enjoyable and valuable for your machine learning journey.
 
-The backlog drives continuous improvement in this GitHub repository with forthcoming guided exercises, explanatory presentations on machine learning and math topics and project developments.
+The backlog drives continuous improvement in this GitHub repository with forthcoming guided exercises and explanatory presentations on machine learning.
 
 If you have any questions, additional requests for the backlog, feedback, or need further assistance, please don't hesitate to reach out to us.
 
