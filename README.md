@@ -13,19 +13,14 @@ The course covers a wide range of guided excercises, including:
 - Anomaly Detection with k-Nearest Neighbors
 - Credit Scoring with Logistic Regression
 - Customer Segmentation using K-Means
-- Deep Learning with Neural Networks
 - Dimensionality reduction with Principal Component Analysis and Linear Discriminant Analysis
 - Fraud Detection with Support Vector Machine
 - Image recognition with Convolutional Neural Network
 - Market Basket Analysis with Apriori Algorithm
-- Market trading with Recurrent Neural Network
 - Medical Diagnosis with Random Forest
 - Natural Language Processing
-- Predictive Maintenance with Gradient Boosting
 - Sales prediction with Linear Regression
 - Sentiment Analyis with Naive Bayes
-- Speech recognition with Convolutional Neural Network
-- Supply Chain Optimization with Hierarchical Clustering
 
 Please keep in mind that when working with machine learning, it is common and recommended to explore and experiment with various algorithms and architectures on the specific problem. Different approaches have their own strengths and weaknesses, and their performance can vary. The provided excercises demonstrate the functionality of a specific machine learning algorithm in a more compelling way for a particular business application or topic.
 
