@@ -1,5 +1,15 @@
 # Backlog
 
+Predictive Maintenance with Gradient Boosting
+
+Market trading with Recurrent Neural Network
+
+Speech recognition with Convolutional Neural Network
+
+Deep Learning with Neural Networks
+
+Supply Chain Optimization with Hierarchical Clustering
+
 Reinforcement Learning presentation
 
 Reinforcement Learning - Markov Decision Process excercise
